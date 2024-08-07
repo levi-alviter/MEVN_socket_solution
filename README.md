@@ -23,3 +23,4 @@ Make sure you have the following installed:
 3. cd frontend_block_event
 4. npm run serve
 
+![Sockets sample](./SocketWorking.gif)
