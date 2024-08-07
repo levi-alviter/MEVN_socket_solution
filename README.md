@@ -13,14 +13,15 @@ Make sure you have the following installed:
 ### Backend Setup
 1. Open a terminal.
 2. With the terminal navigate to the root folder of this project:
-2. npm i
 3. cd backend_block_event 
-4. npm run start
+4. npm i
+5. npm run start
 
 ### Frontend Setup
-1. With the terminal navigate to the root folder of this project:
-2. npm i 
+1. Open a terminal.
+2. With the terminal navigate to the root folder of this project:
 3. cd frontend_block_event
-4. npm run serve
+4. npm i 
+5. npm run serve
 
 ![Sockets sample](./SocketWorking.gif)
